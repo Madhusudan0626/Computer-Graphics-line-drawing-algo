@@ -1,0 +1,2 @@
+go through all the programs and run in your terminals as "gcc program_name.c -lglut -lGLU -lGL" >> "./a.out"
+all are coded in openGL
